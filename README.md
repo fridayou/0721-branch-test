@@ -1,3 +1,3 @@
 # maven-project
-edit on release
+edit on release, edit again on release
 this is for test commit
